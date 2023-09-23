@@ -4,6 +4,13 @@ Arrow keys are too far away from my right hand.
 
 ## Windows
 
+<kbd>Alt + J</kbd> -> <kbd>Left</kbd>
+<kbd>Alt + I</kbd> -> <kbd>Up</kbd>
+<kbd>Alt + K</kbd> -> <kbd>Down</kbd>
+<kbd>Alt + L</kbd> -> <kbd>Right</kbd>
+<kbd>Alt + H</kbd> -> <kbd>Home</kbd>
+<kbd>Alt + ;</kbd> -> <kbd>End</kbd>
+
 #### Requirements
 - AutoHotKey v2.0
 
