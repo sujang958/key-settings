@@ -11,3 +11,4 @@ Arrow keys are too far away from my right hand.
 1. Download [the .ahk file](./arrows.ahk)
 2. Press `Win + R` and type `shell:startup` and press Enter.
 3. Move the .ahk file to the startup folder.
+4. Double-click the .ahk file
